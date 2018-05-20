@@ -1,4 +1,4 @@
-#  Human Pose Estimatoin Papers
+#  Human Pose Estimation Papers
 
 ----------
 
