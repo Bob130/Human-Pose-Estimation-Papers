@@ -136,6 +136,7 @@ none
 - Deep Autoencoder for Combined Human Pose Estimation and body Model Upscaling (Oral) [[paper]](https://arxiv.org/abs/1807.01511)
 - Inner Space Preserving Generative Pose Machine [paper] [[project]](http://www.northeastern.edu/ostadabbas/2018/07/23/inner-space-preserving-generative-pose-machine/) [[code]](https://github.com/ostadabbas/isp-gpm)
 - Multi-Scale Structure-Aware Network for Human Pose Estimation [[paper]](https://arxiv.org/abs/1803.09894)
+- MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Muhammed_Kocabas_MultiPoseNet_Fast_Multi-Person_ECCV_2018_paper.pdf)[[code]](https://github.com/salihkaragoz/pose-residual-network-pytorch)
 
 ### 3D Pose
 - Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation (Oral) [[paper]](https://arxiv.org/abs/1804.01110) [[project]](https://cvlab.epfl.ch/page-155406.html)
